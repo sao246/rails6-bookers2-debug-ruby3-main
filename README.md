@@ -3,7 +3,7 @@
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
-Things you may want to cover:DMM WEB CAMP 応用課題7~9までの実装用プログラムです。
+Things you may want to cover:DMM WEB CAMP 応用課題6までの実装用プログラムです。
 
 * Ruby version
 
